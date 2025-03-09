@@ -1,0 +1,119 @@
+---
+title: "Peter Karl Pabisch, Ph.D."
+subtitle: "Professor Emeritus für Germanistik"
+image: profile2.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com  
+format:
+  html: default
+  docx: default
+    
+---
+
+
+[Deutsch](index2.qmd) | [English](index.qmd)
+
+# {.text-center}
+## Bedeutende Veröffentlichung zur deutschen Dialektliteratur {.text-center}
+
+Ich freue mich, mein umfassendes sechsbändiges wissenschaftliches Werk über die **Geschichte der deutschen Dialektliteratur seit Mitte des 18. Jahrhunderts** vorzustellen, das im September 2019 im Weidler Verlagsbuchhandlung Berlin erschienen ist.
+
+![Buchcover](placeholder-image.jpg)
+
+> *Band 20 der renommierten wissenschaftlichen Reihe "Deutsche Literaturthemen", herausgegeben von Hans-Gert Roloff, Professor emeritus, Freie Universität Berlin*
+
+### Über dieses maßgebliche Werk {.text-center}
+
+Diese bahnbrechende Forschungsarbeit stellt den Höhepunkt siebenjähriger intensiver wissenschaftlicher Tätigkeit (2012-2019) dar und präsentiert die umfassendste jemals zusammengestellte Untersuchung der deutschen Dialektliteratur. Auf über 3.300 Seiten in sechs sorgfältig ausgearbeiteten Bänden zeichnet dieses Werk die historische Entwicklung, regionale Variationen und kulturelle Bedeutung der Dialektliteratur im gesamten deutschsprachigen Raum nach.
+
+### Warum diese Publikation wichtig ist {.text-center}
+
+- **Beispielloser Umfang**: Die erste vollständige wissenschaftliche Behandlung der deutschen Dialektliteratur von Mitte des 18. Jahrhunderts bis zum 21. Jahrhundert
+- **Umfassende Forschung**: Enthält detaillierte Analysen von über 160 bedeutenden Autoren und verweist auf etwa 400 Dialektschriftsteller
+- **Kulturelles Erbe**: Bewahrt und würdigt die reichen sprachlichen Traditionen in den deutschsprachigen Regionen
+- **Wissenschaftliche Ressource**: Unverzichtbares Nachschlagewerk für Universitäten, Forscher, Bibliotheken und kulturelle Einrichtungen
+
+## Inhaltsübersicht {.text-center}
+
+### BUCH I: Grundlagen und historischer Kontext {.text-center}
+
+**Kapitel 1-4**: Legt den Zweck des Werks dar und erforscht die Wurzeln der deutschen Dialektliteratur von indoeuropäischen Ursprüngen bis zur Aufklärung, einschließlich:
+- Wert und Anerkennung der deutschen Dialektliteratur in ihren verschiedenen Formen
+- Historische sprachliche Entwicklung innerhalb germanischer und frühdeutscher Traditionen
+- Dialektregionen von Luthers Zeit bis zum 18. Jahrhundert
+- Besonderer Fokus auf niederdeutsche Literatur
+
+**Kapitel 5**: Forschungsmethodik und Ressourcen, einschließlich:
+- Vergleichende Analyse mit der Weltliteratur, insbesondere englischen Beispielen
+- Verzeichnis regionaler Zentren, Institute und spezialisierter Bibliotheken
+
+**Kapitel 6**: Chronologische Entwicklung von den 1750er Jahren bis zum frühen 21. Jahrhundert:
+- Entwicklung von Johann Gottfried Herder bis Ernst Jandl
+- Entwicklungen vor und nach dem Zweiten Weltkrieg
+
+**Kapitel 7**: Detaillierte Profile von über 160 ausgewählten Autoren, die in den Büchern III-VI erscheinen
+
+**Umfassendes Register**: Namen und Themen für einfache Referenz
+
+### BUCH II: Referenz- und Forschungsinstrumente {.text-center}
+
+Dient als wesentliche Verbindung zwischen dem theoretischen Rahmen (Buch I) und den Textsammlungen (Bücher III-VI) und bietet:
+- Detaillierte Glossare und Essays zu den vorgestellten Autoren und Texten
+- Umfangreiche Bibliographie primärer und sekundärer Quellen
+- Karten, Anhänge, Bilder und visuelle Ressourcen
+- Umfassende Auflistung von etwa 400 Dialektautoren
+- Vollständige Quellenangaben und Genehmigungen
+
+### BÜCHER III-VI: Die gesammelten Texte {.text-center}
+
+**BUCH III**: Vorstellung von Autoren und ihren Texten vom "Sturm und Drang" über den Wiener Kongress bis zur Epoche des Realismus
+
+**BUCH IV**: Behandelt die Periode des Naturalismus bis zum Ende des Zweiten Weltkriegs
+
+**BÜCHER V & VI**: Dokumentieren die Entwicklungen nach 1945 bis zum frühen 21. Jahrhundert
+
+## Akademische Anerkennung {.text-center}
+
+*"Dieses monumentale Werk schließt eine bedeutende Lücke in der deutschen Literaturwissenschaft und bietet einen beispiellosen Zugang zur Dialektliteratur, die in der akademischen Forschung historisch unterrepräsentiert war."* — [Name des Wissenschaftlers], [Universität]
+
+## Wie man diese Publikation erwerben kann {.text-center}
+
+Diese bedeutende Publikation ist erhältlich über:
+
+- Direktbestellung bei [Weidler Verlagsbuchhandlung Berlin](http://www.weidler-verlag.de/)
+  * E-Mail: weidler_verlag@yahoo.de
+- Akademische Buchhandlungen und Universitätsbibliotheken
+- [Online-Bestelllink](#)
+
+**Sonderpreise für akademische Einrichtungen und Bibliotheken verfügbar.**
+
+Für weitere Informationen kontaktieren Sie bitte:
+- E-Mail: your.email@university.edu
+- Telefon: +1 (XXX) XXX-XXXX
+
+---
+
+## Über den Autor {.text-center}
+
+Dr. Peter Karl Pabisch ist Professor Emeritus für Germanistik an der Universität von New Mexico. Seine herausragende akademische Karriere umfasst Doktortitel sowohl von der Universität Illinois in Urbana-Champaign (1974) als auch von der Universität Wien (1985).
+
+### Ausbildung {.text-center}
+
+- Ph.D., University of Illinois at Urbana-Champaign (1974): Moderne und Ältere Deutsche Literatur, Höhere Bildung
+- Dr. Phil., Universität Wien, Österreich (1985): Deutsche Literatur
+- M.A., University of Illinois at Urbana-Champaign (1971): Moderne Deutsche Literatur
+- Magister phil., Universität Wien, Österreich (1985): Germanistik
+- Lehrbefähigung für höhere Schulen, Pädagogisches Institut der Stadt Wien und Universität Wien (1966): Englisch, Deutsch, Leibeserziehung, Pädagogik
+- Lehrbefähigung für Volksschulen, Pädagogisches Institut der Stadt Wien (1962): Allgemeine Fächer
+
+[Vollständiges akademisches Profil](https://lcl.unm.edu/people/faculty/peter-karl-pabisch.html)
+```
+
+You can now copy this entire block and paste it directly into your index2.qmd file. The formatting is preserved with all markdown syntax intact.

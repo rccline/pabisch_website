@@ -10,8 +10,14 @@ about:
       href: https://github.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com  
+format:
+  html: default
+  docx: default
+    
 ---
+
+[Deutsch](index2.qmd) | [English](index.qmd)
 
 # {.text-center}
 ## Landmark Publication in German Dialect Literature {.text-center}
