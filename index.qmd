@@ -1,0 +1,109 @@
+---
+title: "Peter Karl Pabisch, Ph.D."
+subtitle: "Professor Emeritus of German"
+image: profile2.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+---
+
+# {.text-center}
+## Landmark Publication in German Dialect Literature {.text-center}
+
+I am pleased to present my comprehensive 6-volume scholarly work on the **History of German Dialect Literature Since the Middle of the 18th Century**, published by Weidler Verlagsbuchhandlung Berlin in September 2019.
+
+![Book Cover Image](placeholder-image.jpg)
+
+> *Volume 20 in the prestigious scholarly series "German Literary Topics" edited by Hans-Gert Roloff, Professor emeritus, Free University of Berlin*
+
+### About This Definitive Work {.text-center}
+
+This groundbreaking research represents the culmination of seven years of intensive scholarship (2012-2019), presenting the most comprehensive examination of German dialect literature ever assembled. Spanning over 3,300 pages across six meticulously crafted volumes, this work traces the historical development, regional variations, and cultural significance of dialect literature throughout the German-speaking world.
+
+### Why This Publication Matters {.text-center}
+
+- **Unprecedented in Scope**: The first complete scholarly treatment of German dialect literature from the mid-18th century to the 21st century
+- **Comprehensive Research**: Features detailed analysis of over 160 significant authors and references approximately 400 dialect writers
+- **Cultural Heritage**: Preserves and celebrates the rich linguistic traditions across German-speaking regions
+- **Scholarly Resource**: Essential reference for universities, researchers, libraries, and cultural institutions
+
+## Content Overview {.text-center}
+
+### BOOK I: Foundations and Historical Context {.text-center}
+
+**Chapters 1-4**: Establishes the work's purpose and explores the roots of German dialect literature from Indo-European origins through the Enlightenment, including:
+- Value and recognition of German dialect literature in its various forms
+- Historical linguistic development within Germanic and early German traditions
+- Dialect regions from Luther's era to the 18th century
+- Special focus on Low German Literature
+
+**Chapter 5**: Research methodology and resources, including:
+- Comparative analysis with World Literature, especially English examples
+- Directory of regional centers, institutes, and specialized libraries
+
+**Chapter 6**: Chronological development from 1750s to the early 21st century:
+- Evolution from Johann Gottfried Herder to Ernst Jandl
+- Pre-WWII and Post-WWII developments
+
+**Chapter 7**: Detailed profiles of over 160 featured authors appearing in Books III-VI
+
+**Comprehensive Index**: Names and subjects for easy reference
+
+### BOOK II: Reference and Research Tools {.text-center}
+
+Serves as the essential connector between the theoretical framework (Book I) and the textual collections (Books III-VI), offering:
+- Detailed glossaries and essays on featured authors and texts
+- Extensive bibliography of primary and secondary sources
+- Maps, appendices, photographs, and visual resources
+- Comprehensive listing of approximately 400 dialect authors
+- Complete source attributions and permissions
+
+### BOOKS III-VI: The Collected Texts {.text-center}
+
+**BOOK III**: Features authors and texts from "Storm and Stress" through the Vienna Congress to the Realist era
+
+**BOOK IV**: Covers the Naturalist period through World War II
+
+**BOOKS V & VI**: Documents post-1945 developments to the early 21st century
+
+## Academic Recognition {.text-center}
+
+*"This monumental work fills a significant gap in German literary scholarship, providing unprecedented access to dialect literature that has been historically underrepresented in academic study."* — [Scholar Name], [University]
+
+## How to Obtain This Publication {.text-center}
+
+This landmark publication is available for purchase through:
+
+- Direct order from [Weidler Verlagsbuchhandlung Berlin](http://www.weidler-verlag.de/)  
+  *  e-mail: weidler_verlag@yahoo.de
+- Academic bookstores and university libraries
+- [Online ordering link](#)
+
+**Special pricing available for academic institutions and libraries.**
+
+For more information, please contact:
+- Email: your.email@university.edu
+- Phone: +1 (XXX) XXX-XXXX
+
+---
+
+## About the Author {.text-center}
+
+Dr. Peter Karl Pabisch is Professor Emeritus of German at the University of New Mexico. His distinguished academic career includes doctoral degrees from both the University of Illinois at Urbana-Champaign (1974) and the University of Vienna (1985).
+
+### Education {.text-center}
+
+- Ph.D., University of Illinois at Urbana-Champaign (1974): Modern and Older German Literature, Higher Education
+- Dr. Phil., Universität Wien, Austria (1985): German Literature
+- M.A., University of Illinois at Urbana-Champaign (1971): Modern German Literature
+- Magister phil., Universität Wien, Austria (1985): German Studies
+- Teaching Degree for Secondary Schools, Pädagogisches Institut der Stadt Wien and University of Vienna (1966): English, German, Physical Education, Education
+- Teaching Degree for Elementary Schools, Pädagogisches Institut der Stadt Wien (1962): General Subjects
+
+[Full Academic Profile](https://lcl.unm.edu/people/faculty/peter-karl-pabisch.html)
